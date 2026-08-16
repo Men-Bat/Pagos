@@ -1,2 +1,4 @@
 # Pagos
-Paypal PHP
+
+Para Integrare:
+Paypal con Node.js y con PHP.
